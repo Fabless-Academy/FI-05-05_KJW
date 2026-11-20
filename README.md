@@ -1,5 +1,4 @@
 # Fabless Jump-up 5th
-안녕하세요 \
 김\
 진\
 원\
